@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>imgs/icon.png</file>
+        <file>imgs/del.png</file>
+        <file>imgs/add.png</file>
+        <file>oikonomia_ja_JP.qm</file>
+        <file>oikonomia_ko_KR.qm</file>
+        <file>imgs/import.png</file>
+        <file>imgs/out.png</file>
+        <file>imgs/search.png</file>
+        <file>imgs/modify.png</file>
+    </qresource>
+</RCC>
